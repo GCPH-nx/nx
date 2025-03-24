@@ -13,6 +13,6 @@
         {"url":"http://shop:spnsp@bongo.spnsp.xyz:2095/shop.tfl","title":"Bongo Shop","action": "add"},
         {"url":"https://sourceshop.app/","title":"Source Shop","action": "add"},
         {"url":"https://a-theme.ca/","title":"The A-Theme","action": "add"},
-        {"url":"https://e.cchi.me/","title":"Ecchi Save Project","action": "add"},
+        {"url":"https://e.cchi.me/","title":"Ecchi Save Project","action": "add"}
     ]
 }
