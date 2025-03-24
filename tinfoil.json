@@ -1,8 +1,18 @@
 {
     "locations": [
-        {"url": "https://nx.ghostland.at", "title": "Ghost eShop", "action": "add"},
-        {"url": "https://nx-retro.ghostland.at", "title": "Ghost eShop RETRO", "action": "add"},
-        {"url": "https://nx-saves.ghostland.at", "title": "NX Shared Saves", "action": "add"},
-        {"url": "https://tinfoil.ultranx.ru/tinfoil", "title": "UltraNX", "action": "add"}
+        {"url":"https://nx.ghostland.at/","title":"GHOST eSHOP","enabled":1},
+{"url":"https://tinfoil.ultranx.ru/tinfoil","title":"ULTRANX","enabled":1},
+{"url":"https://worldigital-brasil.com/","title":"WORLD DIGITAL FREE","enabled":1},
+{"url":"https://jacksparrow.info/","title":"JACK SPARROW","enabled":1},
+{"url":"http://cyrilz87.net/","title":"DEEJAY SHOP","enabled":1},
+{"url":"https://nx-meta.nlib.cc/","title":"Custom NX DB","enabled":1},
+{"url":"https://nx-saves.ghostland.at/","title":"NX Saves","enabled":1},
+{"url":"https://grat.pages.dev/","title":"GRAT PAGES","enabled":1},
+{"url":"https://bikeborb.shop/","title":"Bikeborb's Shop","enabled":1},
+{"url":"http://shop:spnsp@bongo.spnsp.xyz:2095/shop.tfl","title":"Bongo Shop","enabled":1},
+{"url":"https://sourceshop.app/","title":"Source Shop","enabled":1},
+{"url":"https://a-theme.ca/","title":"The A-Theme","enabled":1},
+{"url":"https://nx-retro.ghostland.at/","title":"Ghost eShop RETRO","enabled":1},
+{"url":"https://e.cchi.me/","title":"Ecchi Save Project","enabled":1}
     ]
 }
