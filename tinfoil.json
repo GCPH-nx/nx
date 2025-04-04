@@ -4,14 +4,6 @@
         {"url": "https://nx-retro.ghostland.at", "title": "Ghost eShop RETRO", "action": "add"},
         {"url": "https://nx-saves.ghostland.at", "title": "NX Shared Saves", "action": "add"},
         {"url": "https://tinfoil.ultranx.ru/tinfoil", "title": "UltraNX", "action": "add"},
-        {"url":"https://worldigital-brasil.com/","title":"WORLD DIGITAL FREE","action": "add"},
-        {"url":"https://jacksparrow.info/","title":"JACK SPARROW","action": "add"},
-        {"url":"http://cyrilz87.net/","title":"DEEJAY SHOP","action": "add"},
-        {"url":"https://nx-meta.nlib.cc/","title":"Custom NX DB","action": "add"},
-        {"url":"https://grat.pages.dev/","title":"GRAT PAGES","action": "add"},
-        {"url":"https://bikeborb.shop/","title":"Bikeborb's Shop","action": "add"},
-        {"url":"http://shop:spnsp@bongo.spnsp.xyz:2095/shop.tfl","title":"Bongo Shop","action": "add"},
-        {"url":"https://sourceshop.app/","title":"Source Shop","action": "add"},
         {"url":"https://a-theme.ca/","title":"The A-Theme","action": "add"},
         {"url":"https://e.cchi.me/","title":"Ecchi Save Project","action": "add"}
     ]
