@@ -6,5 +6,6 @@
         {"url": "https://tinfoil.ultranx.ru/tinfoil", "title": "UltraNX", "action": "add"},
         {"url":"https://a-theme.ca/","title":"The A-Theme","action": "add"},
         {"url":"https://e.cchi.me/","title":"Ecchi Save Project","action": "add"}
+        {"url":"http://switchbr.com/","title":"Switch BR","action": "add"}
     ]
 }
