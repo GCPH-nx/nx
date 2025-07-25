@@ -1,13 +1,50 @@
 {
     "locations": [
-        {"url": "https://nx.ghostland.at", "title": "Ghost eShop", "action": "add"},
-        {"url": "https://nx-retro.ghostland.at", "title": "Ghost eShop RETRO", "action": "add"},
-        {"url": "https://nx-saves.ghostland.at", "title": "NX Shared Saves", "action": "add"},
-        {"url": "https://tinfoil.ultranx.ru/tinfoil", "title": "UltraNX", "action": "add"},
-        {"url":"https://a-theme.ca/","title":"The A-Theme","action": "add"},
-        {"url":"https://e.cchi.me/","title":"Ecchi Save Project","action": "add"},
-        {"url":"http://switchbr.com/","title":"Switch BR","action": "add"},
-        {"url":"https://free.worldigital-brasil.com:443/","title":"wdb","action": "add"},
-        {"url":"https://gandalfsax.com/","title":"wdb","action": "add"},
-    ]
+        {
+            "url": "https://nx.ghostland.at",
+            "title": "Ghost eShop PUBLIC",
+            "action": "add"
+        },
+        {
+            "url": "https://free.worldigital-brasil.com",
+            "title": "World-Digital",
+            "action": "add"
+        },
+        {
+            "url": "https://nx-retro.ghostland.at",
+            "title": "Ghost eShop Retro NX",
+            "action": "add"
+        },
+        {
+            "url": "https://nx-saves.ghostland.at",
+            "title": "NX Shared Saves",
+            "action": "add"
+        },
+        {
+          "url": "https://tinfoil.ultranx.ru/tinfoil",
+            "title": "Ultra NX",
+            "action": "add"  
+        },
+        {
+          "url": "https://a-theme.ca/",
+            "title": "The A Theme",
+            "action": "add"  
+        },
+        {
+          "url": "https://e.cchi.me/",
+            "title": "Ecchi Save Project",
+            "action": "add"  
+        },
+        {
+          "url": "https://gandalfsax.com",
+            "title": "GandalfSax Shop",
+            "action": "add"  
+        },
+        {
+          "url": "https://nx-saves.ghostland.at",
+            "title": "NX Shared Saves",
+            "action": "add"  
+        },
+    ],
+    "success": "GCPH SHOP acts solely as a forwarding service and is not responsible for the quality, safety, legality, or delivery of products from third-party shops.\n\nCHANGELOG:\n\n- Readded \"Ghost eShop PUBLIC\"\n\n  Inspire by Orange SHOP GITHUB"
 }
