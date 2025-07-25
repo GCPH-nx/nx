@@ -16,6 +16,11 @@
             "action": "add"
         },
         {
+            "url": "https://gandalfsax.com",
+            "title": "Gandalfsax",
+            "action": "add"
+        },
+        {
             "url": "https://nx-saves.ghostland.at",
             "title": "NX Shared Saves",
             "action": "add"
